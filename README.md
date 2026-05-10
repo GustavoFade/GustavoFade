@@ -1,24 +1,21 @@
-## Olá, me chamo Gustavo Fadel, sou desenvolvedor Full Stack ! 👋
+# Hi, I’m Gustavo Fadel 👋
 
-<div align="center">
-  <a href="https://github.com/GustavoFade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFade&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gustavo-DotNetCore" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Gustavo-DotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img align="center" alt="Gustavo-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Gustavo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+I’m a **.NET / C# Software Engineer** focused on building **scalable, maintainable, and high-performance back-end solutions**.
+
+My work is centered on modern software engineering practices: clean architecture, cloud services, CI/CD, containers, observability, and thoughtful system design. I enjoy working on products that need to evolve safely, integrate with other systems, and support growth without sacrificing reliability.
+
+## What I do best
+
+- **Back-end development** with C#, ASP.NET Core, ASP.NET MVC, .NET, .NET Core, and .NET Framework
+- **Modernization and migration** of legacy systems to more scalable architectures
+- **Domain-driven design (DDD)** and modular codebases
+- **Data access and persistence** with Entity Framework Core, Entity Framework, Dapper, PostgreSQL, SQL Server, and MySQL
+- **Authentication and authorization** with Identity Server 4 and related identity solutions
+- **Real-time and distributed systems** using Redis, SignalR, RabbitMQ, and Kafka
+- **DevOps and cloud** with Docker, Docker Compose, Kubernetes, GitHub Actions, Terraform, AWS, Azure, Linux, Datadog, and Azure Functions
   
   ##
  
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-fadel-91b05b202" target="_blank"><img align="left" alt="LinkdeIN"            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="mailto:gustavo-959694@hotmail.com" target="_blank"><img align="left" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?    style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 </div>
